@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716097881283",
+    "firebase_url": "https://komunicate-f21b2.firebaseio.com",
+    "project_id": "komunicate-f21b2",
+    "storage_bucket": "komunicate-f21b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716097881283:android:87d38bab2eeae4d8568e76",
+        "android_client_info": {
+          "package_name": "com.example.komunicate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716097881283-o5g5rms2lmus7421qepkr8ekbndp1vok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.komunicate",
+            "certificate_hash": "db472559f487d85fd5c5c70c8b78aa6ed143d272"
+          }
+        },
+        {
+          "client_id": "716097881283-lnctcj70r6mghg1sak50dkifaggcune9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJwzJqmTfe5ADvRhZrjAkCOsKvTYYyAtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716097881283-lnctcj70r6mghg1sak50dkifaggcune9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
